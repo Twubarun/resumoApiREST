@@ -1,5 +1,7 @@
 # resumoApiREST
 
+# Api REST e RESTFul
+
 API, que significa Interface de Programação de Aplicações, é um conjunto de regras e definições que permite a interação entre sistemas. Uma API REST (Representational State Transfer) é um estilo arquitetural que utiliza um conjunto de princípios para criar serviços web. Esses serviços web seguem os princípios fundamentais da arquitetura REST, como a utilização de recursos, identificadores únicos (URLs) para esses recursos e a manipulação desses recursos por meio de operações padronizadas.
 
 API RESTful é uma implementação de uma API REST que segue os princípios e as melhores práticas estabelecidas para garantir a escalabilidade, a flexibilidade e a eficiência da comunicação entre sistemas. Uma API RESTful utiliza métodos HTTP para realizar operações em recursos, geralmente representados em formatos como JSON ou XML.
